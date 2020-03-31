@@ -1,5 +1,7 @@
 ## ASSIGNMENT 2 ## 
 
+## Deadline: 8 April at 12:00
+
 In order to pass, you do not need to successfully complete the HARD task, but at least have tried to answer it. The purpose of the hard task is to show you a few of the caveats and problems of working with data!
 
 Two commonly used datasets in conflict research are the UCDP Non-State Conflict dataset, which provides a list of armed conflicts where *states were not involved* on a country-year level and the UCDP Geo-Referenced Event Dataset (GED) which provides details on individual battles (down to day and village level). GED provides battle events for all three conflict types, *state-based*, *non-state* and *one-sided*. 
