@@ -1,4 +1,4 @@
-## ASSIGNMENT 2 ## 
+## ASSIGNMENT 1.1 ## 
 
 ## Deadline: 8 April at 12:00
 
