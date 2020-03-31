@@ -1,0 +1,61 @@
+conflict_id,year,country,country_id,side_a,side_a_id,side_b,side_b_id,fatalities,type_of_conflict,incompatibility,territory_name
+283,2016,DR Congo (Zaire),490,Government of DR Congo (Zaire),89,Kamuina Nsapu,6590,164,3,2,
+283,2017,DR Congo (Zaire),490,Government of DR Congo (Zaire),89,"CMC, CNPSC (Yakutumba), Kamuina Nsapu, M23, MNR","1160, 3043, 6590, 6740, 6920",1608,3,2,
+287,2015,Burundi,516,Government of Burundi,93,"FPB, Military faction (forces of Godefroid Niyombare)","6187, 6297",133,3,2,
+297,2016,Nigeria,475,Government of Nigeria,84,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,162,4,2,
+297,2017,Nigeria,475,Government of Nigeria,84,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,1062,4,2,
+297,2015,Nigeria,475,Government of Nigeria,84,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,2703,4,2,
+309,2015,Sudan,625,Government of Sudan,112,"Darfur Joint Resistance Forces, SRF","1162, 5866",1264,3,2,
+309,2016,Sudan,625,Government of Sudan,112,SRF,1162,1314,3,2,
+309,2017,Sudan,625,Government of Sudan,112,"SARC, SRF","1162, 5849",128,3,2,
+314,2015,Uganda,500,Government of Uganda,90,ADF,489,197,4,2,
+314,2016,Uganda,500,Government of Uganda,90,ADF,489,132,4,2,
+314,2017,Uganda,500,Government of Uganda,90,ADF,489,235,4,2,
+329,2015,Ethiopia,530,Government of Ethiopia,97,ONLF,497,25,3,1,Ogaden
+329,2016,Ethiopia,530,Government of Ethiopia,97,ONLF,497,25,3,1,Ogaden
+332,2016,Mozambique,541,Government of Mozambique,100,Renamo,498,26,3,2,
+337,2015,Somalia,520,Government of Somalia,95,Al-Shabaab,717,1178,4,2,
+337,2016,Somalia,520,Government of Somalia,95,Al-Shabaab,717,1925,4,2,
+337,2017,Somalia,520,Government of Somalia,95,Al-Shabaab,717,1837,4,2,
+353,2016,Cameroon,471,Government of Cameroon,83,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,32,3,2,
+353,2017,Cameroon,471,Government of Cameroon,83,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,63,3,2,
+353,2015,Cameroon,471,Government of Cameroon,83,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,712,4,2,
+372,2015,Mali,432,Government of Mali,72,CMA,1158,54,4,1,Azawad
+374,2016,Rwanda,517,Government of Rwanda,94,FDLR,528,129,4,2,
+386,2015,Algeria,615,Government of Algeria,109,AQIM,539,84,3,2,
+386,2016,Algeria,615,Government of Algeria,109,AQIM,539,86,3,2,
+386,2017,Algeria,615,Government of Algeria,109,AQIM,539,60,3,2,
+387,2017,Angola,540,Government of Angola,99,FLEC-FAC,541,25,3,1,Cabinda
+408,2016,Congo,484,Government of Congo,88,Ntsiloulous,548,51,3,2,
+409,2016,"Eritrea, Ethiopia",531,Government of Eritrea,98,Government of Ethiopia,97,25,2,1,Common border
+413,2015,Ethiopia,530,Government of Ethiopia,97,OLF,551,25,3,1,Oromiya
+413,2016,Ethiopia,530,Government of Ethiopia,97,OLF,551,25,3,1,Oromiya
+429,2017,DR Congo (Zaire),490,Government of DR Congo (Zaire),89,BDK,561,90,3,1,Kongo Kingdom
+11345,2016,South Sudan,626,Government of South Sudan,113,SPLM/A In Opposition,4226,735,3,2,
+11345,2017,South Sudan,626,Government of South Sudan,113,SPLM/A In Opposition,4226,465,3,2,
+11345,2015,South Sudan,626,Government of South Sudan,113,SPLM/A In Opposition,4226,493,4,2,
+11346,2017,Libya,620,Government of Libya,111,"Forces of Khalifa al-Ghawil, Forces of the House of Representatives, PFLL","5802, 6814, 6893",308,3,2,
+11346,2015,Libya,620,Government of Libya,111,Forces of the House of Representatives,5802,156,3,2,
+11347,2016,Mali,432,Government of Mali,72,"AQIM, Ansar Dine","539, 1157",96,4,2,
+11347,2017,Mali,432,Government of Mali,72,"AQIM, JNIM","539, 6716",302,4,2,
+11347,2015,Mali,432,Government of Mali,72,"AQIM, Ansar Dine","539, 1157",70,"3, 4",2,
+13611,2015,Mali,432,Government of Mali,72,FLM,6267,41,3,1,Macina Empire
+13638,2016,Cameroon,471,Government of Cameroon,83,IS,234,189,3,1,Islamic State
+13638,2015,Cameroon,471,Government of Cameroon,83,IS,234,283,4,1,Islamic State
+13639,2016,Niger,436,Government of Niger,75,IS,234,274,4,1,Islamic State
+13639,2017,Niger,436,Government of Niger,75,IS,234,203,4,1,Islamic State
+13639,2015,Niger,436,Government of Niger,75,IS,234,171,4,1,Islamic State
+13640,2017,Chad,483,Government of Chad,87,IS,234,57,3,1,Islamic State
+13640,2015,Chad,483,Government of Chad,87,IS,234,272,3,1,Islamic State
+13641,2016,Nigeria,475,Government of Nigeria,84,IS,234,2268,4,1,Islamic State
+13641,2017,Nigeria,475,Government of Nigeria,84,IS,234,817,4,1,Islamic State
+13641,2015,Nigeria,475,Government of Nigeria,84,IS,234,1919,4,1,Islamic State
+13646,2016,Kenya,501,Government of Kenya,91,Al-Shabaab,717,49,3,1,Northeastern Province and Coast
+13646,2017,Kenya,501,Government of Kenya,91,Al-Shabaab,717,85,3,1,Northeastern Province and Coast
+13646,2015,Kenya,501,Government of Kenya,91,Al-Shabaab,717,42,3,1,Northeastern Province and Coast
+13694,2016,Libya,620,Government of Libya,111,IS,234,1678,4,1,Islamic State
+13694,2017,Libya,620,Government of Libya,111,IS,234,96,4,1,Islamic State
+13694,2015,Libya,620,Government of Libya,111,IS,234,118,3,1,Islamic State
+13721,2015,Algeria,615,Government of Algeria,109,IS,234,26,3,1,Islamic State
+14113,2017,Mali,432,Government of Mali,72,IS,234,43,4,1,Islamic State
+14333,2016,Tunisia,616,Government of Tunisia,110,IS,234,72,3,1,Islamic State

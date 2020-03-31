@@ -1,0 +1,593 @@
+conflict_id,org_class,side_a_name,side_a_id,side_b_name,side_b_id,year,region,country,conflict_name,country_id
+4564,1,1920 Revolution Brigades,783,IS,234,2007,2,Iraq,1920 Revolution Brigades - IS,645
+4565,3,Abgal clan (Hawiye),1028,Xawaadle clan (Hawiye),891,2008,4,Somalia,Abgal clan (Hawiye) - Xawaadle clan (Hawiye),520
+4567,2,Supporters of ACN,893,Supporters of PDP,668,2008,4,Nigeria,Supporters of ACN - Supporters of PDP,475
+4567,2,Supporters of ACN,893,Supporters of PDP,668,2011,4,Nigeria,Supporters of ACN - Supporters of PDP,475
+4573,1,Ahlu Sunna Waljamaca,894,Al-Shabaab,717,2008,4,Somalia,Ahlu Sunna Waljamaca - Al-Shabaab,520
+4573,1,Ahlu Sunna Waljamaca,894,Al-Shabaab,717,2009,4,Somalia,Ahlu Sunna Waljamaca - Al-Shabaab,520
+4573,1,Ahlu Sunna Waljamaca,894,Al-Shabaab,717,2010,4,Somalia,Ahlu Sunna Waljamaca - Al-Shabaab,520
+4576,3,Amaro,578,Guji,613,2006,4,Ethiopia,Amaro - Guji,530
+4579,1,Ansaar ul-Islam,398,Lashkar-e-Islam,399,2007,3,Pakistan,Ansaar ul-Islam - Lashkar-e-Islam,770
+4579,1,Ansaar ul-Islam,398,Lashkar-e-Islam,399,2008,3,Pakistan,Ansaar ul-Islam - Lashkar-e-Islam,770
+4579,1,Ansaar ul-Islam,398,Lashkar-e-Islam,399,2009,3,Pakistan,Ansaar ul-Islam - Lashkar-e-Islam,770
+4582,3,Anuak,581,Nuer,660,2016,4,Ethiopia,Anuak - Nuer,530
+4583,3,Agar Dinka,582,Gok Dinka,583,2006,4,Sudan,Agar Dinka - Gok Dinka,625
+4584,1,ARPCT,584,ARS/UIC,505,2006,4,Somalia,ARPCT - ARS/UIC,520
+4586,1,AUC,771,FARC,743,2005,5,Colombia,AUC - FARC,100
+4587,1,Bangadi Militia,895,LRA,488,2008,4,DR Congo (Zaire),Bangadi Militia - LRA,490
+4588,3,Bangesh,790,Turi,791,2008,3,Pakistan,Bangesh - Turi,770
+4588,3,Bangesh,790,Turi,791,2009,3,Pakistan,Bangesh - Turi,770
+4589,3,Bena Kapuya,647,Bena Nsimba,646,2007,4,DR Congo (Zaire),Bena Kapuya - Bena Nsimba,490
+4592,3,Bokora Karimojong,590,Jie,633,2007,4,Uganda,Bokora Karimojong - Jie,500
+4593,3,Bokora Karimojong,590,Pian Karimojong,669,2005,4,Uganda,Bokora Karimojong - Pian Karimojong,500
+4594,3,Bor Dinka,708,Murle,655,2007,4,Sudan,Bor Dinka - Murle,625
+4594,3,Bor Dinka,708,Murle,655,2011,4,South Sudan,Bor Dinka - Murle,626
+4594,3,Bor Dinka,708,Murle,655,2012,4,South Sudan,Bor Dinka - Murle,626
+4594,3,Bor Dinka,708,Murle,655,2017,4,South Sudan,Bor Dinka - Murle,626
+4595,3,Borana,591,Guji,613,2006,4,Ethiopia,Borana - Guji,530
+4596,3,Borana,591,Konso,1039,2008,4,Ethiopia,Borana - Konso,530
+4598,3,Burji,592,Guji,613,2006,4,Ethiopia,Burji - Guji,530
+4600,1,CNDP,426,PARECO,896,2008,4,DR Congo (Zaire),CNDP - PARECO,490
+4602,1,CPN-M,258,MJF,784,2007,3,Nepal,CPN-M - MJF,790
+4604,3,Darsalim,594,Kibete,637,2006,4,Chad,Darsalim - Kibete,483
+4607,3,Derashe,919,Konso,1039,2008,4,Ethiopia,Derashe - Konso,530
+4608,3,Didinga,707,Toposa,692,2007,4,Sudan,Didinga - Toposa,625
+4612,1,DKBA,785,KNU,180,2007,3,Myanmar (Burma),DKBA - KNU,775
+4613,3,Nyangatom,712,Turkana,693,2006,4,Ethiopia,Nyangatom - Turkana,530
+4614,3,Duduble subclan of Gorgorte clan (Hawiye),602,Suleiman subclan of Habar Gidir clan (Hawiye),687,2012,4,Somalia,Duduble subclan of Gorgorte clan (Hawiye) - Suleiman subclan of Habar Gidir clan (Hawiye),520
+4616,1,Fatah,207,Hamas,209,2006,2,Israel,Fatah - Hamas,666
+4616,1,Fatah,207,Hamas,209,2007,2,Israel,Fatah - Hamas,666
+4618,1,FRCI,558,MILOCI,652,2005,4,Ivory Coast,FRCI - MILOCI,437
+4621,1,Forces of Amanullah Khan,377,Forces of Arbab Basir,378,2006,3,Afghanistan,Forces of Amanullah Khan - Forces of Arbab Basir,700
+4625,3,Fulani,607,Mambila,643,2017,4,Nigeria,Fulani - Mambila,475
+4626,3,Gaadsan subclan of Biimaal clan (Dir),897,Ma'alin Weyne subclan of Mirifle clan (Digil-Mirifle),898,2008,4,Somalia,Gaadsan subclan of Biimaal clan (Dir) - Ma'alin Weyne subclan of Mirifle clan (Digil-Mirifle),520
+4627,3,Gabra,609,Guji,613,2005,4,Ethiopia,Gabra - Guji,530
+4628,3,Galje'el clan (Hawiye),610,Jejele subclan of Jibedi clan (Hawiye),631,2005,4,Somalia,Galje'el clan (Hawiye) - Jejele subclan of Jibedi clan (Hawiye),520
+4629,3,Gamai,611,Pan,666,2006,4,Nigeria,Gamai - Pan,475
+4630,3,Garre subclan of Digil clan (Digil-Mirifle),612,Marehan subclan of Sede clan (Darod),644,2005,4,Somalia,Garre subclan of Digil clan (Digil-Mirifle) - Marehan subclan of Sede clan (Darod),520
+4631,3,Garre subclan of Digil clan (Digil-Mirifle),612,Murule subclan of Gugundabe clan (Hawiye),656,2005,4,Kenya,Garre subclan of Digil clan (Digil-Mirifle) - Murule subclan of Gugundabe clan (Hawiye),501
+4631,3,Garre subclan of Digil clan (Digil-Mirifle),612,Murule subclan of Gugundabe clan (Hawiye),656,2008,4,Kenya,Garre subclan of Digil clan (Digil-Mirifle) - Murule subclan of Gugundabe clan (Hawiye),501
+4632,3,Gumuz,899,Oromo,664,2008,4,Ethiopia,Gumuz - Oromo,530
+4633,3,Falata,691,Habaniya,615,2007,4,Sudan,Falata - Habaniya,625
+4633,3,Falata,691,Habaniya,615,2008,4,Sudan,Falata - Habaniya,625
+4633,3,Falata,691,Habaniya,615,2009,4,Sudan,Falata - Habaniya,625
+4634,3,Habaniya,615,Rizeigat Baggara,703,2006,4,Sudan,Habaniya - Rizeigat Baggara,625
+4634,3,Habaniya,615,Rizeigat Baggara,703,2015,4,Sudan,Habaniya - Rizeigat Baggara,625
+4637,3,Hausa,608,Yoruba,701,2017,4,Nigeria,Hausa - Yoruba,475
+4639,1,Hezbollah,366,PSP,879,2008,2,Lebanon,Hezbollah - PSP,660
+4640,3,Hotiya Baggara,617,"Mahamid, Mahariba, Newiba",3834,2005,4,Sudan,"Hotiya Baggara - Mahamid, Mahariba, Newiba",625
+4642,3,Huber subclan of Mirifle clan (Digil-Mirifle),618,Yantar subclan of Mirifle clan (Digil-Mirifle),700,2005,4,Somalia,Huber subclan of Mirifle clan (Digil-Mirifle) - Yantar subclan of Mirifle clan (Digil-Mirifle),520
+4644,1,IMU,359,Lashkhar of Wazir tribe,787,2007,3,Pakistan,IMU - Lashkhar of Wazir tribe,770
+4645,1,IS,234,RJF,235,2007,2,Iraq,IS - RJF,645
+4646,3,Izzi (Igbo),626,Ukele,694,2005,4,Nigeria,Izzi (Igbo) - Ukele,475
+4647,1,Forces of Shah Sahib,792,TTP,356,2008,3,Pakistan,Forces of Shah Sahib - TTP,770
+4649,1,Janjaweed,630,SLM/A,469,2005,4,Sudan,Janjaweed - SLM/A,625
+4650,1,Janjaweed - Bin Kulaib faction,629,Janjaweed - Moro faction,628,2005,4,Sudan,Janjaweed - Bin Kulaib faction - Janjaweed - Moro faction,625
+4651,3,Jie,633,Turkana,693,2008,4,Kenya,Jie - Turkana,501
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2008,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2009,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2010,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2011,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2012,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2013,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2014,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2015,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2016,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4652,1,Juarez Cartel,793,Sinaloa Cartel,775,2017,5,Mexico,Juarez Cartel - Sinaloa Cartel,70
+4655,3,Kachai sub-tribe of Bangesh,794,Mishti,795,2008,3,Pakistan,Kachai sub-tribe of Bangesh - Mishti,770
+4656,3,Kalenjin,1024,Kikuyu,926,2008,4,Kenya,Kalenjin - Kikuyu,501
+4657,3,Kalenjin,1024,Kisii,927,2008,4,Kenya,Kalenjin - Kisii,501
+4658,3,Kusasi,1057,Mamprusi,1058,2008,4,Ghana,Kusasi - Mamprusi,452
+4659,1,Lashkar of Salarzai tribe,796,TTP,356,2008,3,Pakistan,Lashkar of Salarzai tribe - TTP,770
+4660,3,Lou Nuer,706,Murle,655,2006,4,Sudan,Lou Nuer - Murle,625
+4660,3,Lou Nuer,706,Murle,655,2007,4,Sudan,Lou Nuer - Murle,625
+4660,3,Lou Nuer,706,Murle,655,2009,4,Sudan,Lou Nuer - Murle,625
+4660,3,Lou Nuer,706,Murle,655,2011,4,"South Sudan, Sudan",Lou Nuer - Murle,626
+4660,3,Lou Nuer,706,Murle,655,2012,4,"South Sudan, Ethiopia",Lou Nuer - Murle,626
+4660,3,Lou Nuer,706,Murle,655,2013,4,South Sudan,Lou Nuer - Murle,626
+4660,3,Lou Nuer,706,Murle,655,2016,4,South Sudan,Lou Nuer - Murle,626
+4660,3,Lou Nuer,706,Murle,655,2017,4,South Sudan,Lou Nuer - Murle,626
+4661,3,Hol Dinka,900,Lou Nuer,706,2008,4,Sudan,Hol Dinka - Lou Nuer,625
+4661,3,Hol Dinka,900,Lou Nuer,706,2009,4,Sudan,Hol Dinka - Lou Nuer,625
+4663,1,LTTE,320,LTTE - K,389,2005,3,Sri Lanka,LTTE - LTTE - K,780
+4663,1,LTTE,320,LTTE - K,389,2006,3,Sri Lanka,LTTE - LTTE - K,780
+4664,3,Lumad,390,Moro,391,2006,3,Philippines,Lumad - Moro,840
+4665,3,Kikuyu,926,Luo,901,2008,4,Kenya,Kikuyu - Luo,501
+4666,3,Ma'aliyah,641,Rizeigat Baggara,703,2013,4,Sudan,Ma'aliyah - Rizeigat Baggara,625
+4666,3,Ma'aliyah,641,Rizeigat Baggara,703,2014,4,Sudan,Ma'aliyah - Rizeigat Baggara,625
+4666,3,Ma'aliyah,641,Rizeigat Baggara,703,2015,4,Sudan,Ma'aliyah - Rizeigat Baggara,625
+4666,3,Ma'aliyah,641,Rizeigat Baggara,703,2016,4,Sudan,Ma'aliyah - Rizeigat Baggara,625
+4666,3,Ma'aliyah,641,Rizeigat Baggara,703,2017,4,Sudan,Ma'aliyah - Rizeigat Baggara,625
+4667,3,Mangal,797,Turi,791,2007,3,Pakistan,Mangal - Turi,770
+4667,3,Mangal,797,Turi,791,2008,3,Pakistan,Mangal - Turi,770
+4668,1,Mara 18 (Guatemala),776,Mara Salvatrucha (Guatemala),777,2005,5,Guatemala,Mara 18 (Guatemala) - Mara Salvatrucha (Guatemala),90
+4670,3,Majerteen subclan (Darod),711,Marehan subclan of Sede clan (Darod),644,2006,4,Ethiopia,Majerteen subclan (Darod) - Marehan subclan of Sede clan (Darod),530
+4672,3,Dassanetch,713,Turkana,693,2005,4,"Ethiopia, Kenya",Dassanetch - Turkana,530
+4672,3,Dassanetch,713,Turkana,693,2009,4,"Kenya, Ethiopia",Dassanetch - Turkana,501
+4672,3,Dassanetch,713,Turkana,693,2011,4,Kenya,Dassanetch - Turkana,501
+4673,1,MFDC Front Nord - MD,650,MFDC - S,651,2006,4,Senegal,MFDC Front Nord - MD - MFDC - S,433
+4674,3,Misseriya,1025,Rizeigat Abbala,676,2008,4,Sudan,Misseriya - Rizeigat Abbala,625
+4674,3,Misseriya,1025,Rizeigat Abbala,676,2009,4,Sudan,Misseriya - Rizeigat Abbala,625
+4674,3,Misseriya,1025,Rizeigat Abbala,676,2010,4,Sudan,Misseriya - Rizeigat Abbala,625
+4674,3,Misseriya,1025,Rizeigat Abbala,676,2012,4,Sudan,Misseriya - Rizeigat Abbala,625
+4674,3,Misseriya,1025,Rizeigat Abbala,676,2015,4,Sudan,Misseriya - Rizeigat Abbala,625
+4676,1,MDF,902,SLDF,704,2008,4,Kenya,MDF - SLDF,501
+4677,3,Murle,655,Nuer,660,2006,4,Ethiopia,Murle - Nuer,530
+4677,3,Murle,655,Nuer,660,2016,4,Ethiopia,Murle - Nuer,530
+4679,1,NSCN-IM,223,NSCN-K,224,2005,3,India,NSCN-IM - NSCN-K,750
+4679,1,NSCN-IM,223,NSCN-K,224,2006,3,India,NSCN-IM - NSCN-K,750
+4679,1,NSCN-IM,223,NSCN-K,224,2007,3,India,NSCN-IM - NSCN-K,750
+4679,1,NSCN-IM,223,NSCN-K,224,2008,3,India,NSCN-IM - NSCN-K,750
+4679,1,NSCN-IM,223,NSCN-K,224,2011,3,India,NSCN-IM - NSCN-K,750
+4680,1,NSCN-IM,223,NSCN-U,798,2008,3,India,NSCN-IM - NSCN-U,750
+4681,3,"Nyangatom , Toposa",3806,Turkana,693,2006,4,Kenya,"Nyangatom , Toposa - Turkana",501
+4683,3,Oromo,664,Somali (Ethiopia),685,2005,4,Ethiopia,Oromo - Somali (Ethiopia),530
+4683,3,Oromo,664,Somali (Ethiopia),685,2017,4,Ethiopia,Oromo - Somali (Ethiopia),530
+4684,1,Palipehutu-FNL,432,Palipehutu-FNL - LP,786,2007,4,Burundi,Palipehutu-FNL - Palipehutu-FNL - LP,516
+4693,3,Rizeigat Abbala,676,Terjam,690,2007,4,Sudan,Rizeigat Abbala - Terjam,625
+4694,1,RRA,678,RRA - MH,677,2005,4,Somalia,RRA - RRA - MH,520
+4695,3,Sa'ad subclan of Habar Gidir clan (Hawiye),680,Suleiman subclan of Habar Gidir clan (Hawiye),687,2005,4,Somalia,Sa'ad subclan of Habar Gidir clan (Hawiye) - Suleiman subclan of Habar Gidir clan (Hawiye),520
+4695,3,Sa'ad subclan of Habar Gidir clan (Hawiye),680,Suleiman subclan of Habar Gidir clan (Hawiye),687,2006,4,Somalia,Sa'ad subclan of Habar Gidir clan (Hawiye) - Suleiman subclan of Habar Gidir clan (Hawiye),520
+4695,3,Sa'ad subclan of Habar Gidir clan (Hawiye),680,Suleiman subclan of Habar Gidir clan (Hawiye),687,2011,4,Somalia,Sa'ad subclan of Habar Gidir clan (Hawiye) - Suleiman subclan of Habar Gidir clan (Hawiye),520
+4696,1,Gulf Cartel,782,Sinaloa Cartel,775,2005,5,Mexico,Gulf Cartel - Sinaloa Cartel,70
+4696,1,Gulf Cartel,782,Sinaloa Cartel,775,2006,5,Mexico,Gulf Cartel - Sinaloa Cartel,70
+4696,1,Gulf Cartel,782,Sinaloa Cartel,775,2007,5,Mexico,Gulf Cartel - Sinaloa Cartel,70
+4696,1,Gulf Cartel,782,Sinaloa Cartel,775,2008,5,"Guatemala, Mexico",Gulf Cartel - Sinaloa Cartel,90
+4696,1,Gulf Cartel,782,Sinaloa Cartel,775,2009,5,Mexico,Gulf Cartel - Sinaloa Cartel,70
+4696,1,Gulf Cartel,782,Sinaloa Cartel,775,2010,5,"Mexico, Honduras",Gulf Cartel - Sinaloa Cartel,70
+4697,1,SLM/A,469,SLM/A - MM,471,2005,4,Sudan,SLM/A - SLM/A - MM,625
+4697,1,SLM/A,469,SLM/A - MM,471,2006,4,Sudan,SLM/A - SLM/A - MM,625
+4699,1,RCSS,256,UWSA,364,2005,3,Myanmar (Burma),RCSS - UWSA,775
+4701,3,Tama,636,Zaghawa,705,2006,4,Chad,Tama - Zaghawa,483
+4701,3,Tama,636,Zaghawa,705,2007,4,Chad,Tama - Zaghawa,483
+4702,1,Tijuana Cartel,799,Tijuana Cartel - El Teo faction,800,2008,5,Mexico,Tijuana Cartel - Tijuana Cartel - El Teo faction,70
+4702,1,Tijuana Cartel,799,Tijuana Cartel - El Teo faction,800,2009,5,Mexico,Tijuana Cartel - Tijuana Cartel - El Teo faction,70
+4702,1,Tijuana Cartel,799,Tijuana Cartel - El Teo faction,800,2010,5,Mexico,Tijuana Cartel - Tijuana Cartel - El Teo faction,70
+4703,3,Toposa,692,Turkana,693,2008,4,Kenya,Toposa - Turkana,501
+4703,3,Toposa,692,Turkana,693,2011,4,"Kenya, Sudan",Toposa - Turkana,501
+4704,3,Pokot,670,Turkana,693,2005,4,Kenya,Pokot - Turkana,501
+4704,3,Pokot,670,Turkana,693,2006,4,"Kenya, Uganda",Pokot - Turkana,501
+4704,3,Pokot,670,Turkana,693,2008,4,"Kenya, Uganda",Pokot - Turkana,501
+4704,3,Pokot,670,Turkana,693,2010,4,Kenya,Pokot - Turkana,501
+4704,3,Pokot,670,Turkana,693,2013,4,Kenya,Pokot - Turkana,501
+4704,3,Pokot,670,Turkana,693,2014,4,Kenya,Pokot - Turkana,501
+4704,3,Pokot,670,Turkana,693,2015,4,Kenya,Pokot - Turkana,501
+4706,3,Ma'aliyah,641,Zaghawa,705,2008,4,Sudan,Ma'aliyah - Zaghawa,625
+4713,1,Hizb-i Islami-yi Afghanistan,299,Taleban,303,2010,3,Afghanistan,Hizb-i Islami-yi Afghanistan - Taleban,700
+4713,1,Hizb-i Islami-yi Afghanistan,299,Taleban,303,2011,3,Afghanistan,Hizb-i Islami-yi Afghanistan - Taleban,700
+4742,3,Borana,591,Garre,1079,2009,4,Ethiopia,Borana - Garre,530
+4767,3,Marakwet,929,Pokot,670,2016,4,Kenya,Marakwet - Pokot,501
+4781,3,Fulani,607,Touareg,937,2014,4,Mali,Fulani - Touareg,432
+4790,3,"Afisare, Anaguta, Birom",3798,"Fulani, Hausa",3800,2008,4,Nigeria,"Afisare, Anaguta, Birom - Fulani, Hausa",475
+4848,3,Awlad Omran clan,991,Awlad al-Zuid clan,1036,2014,4,Sudan,Awlad Omran clan - Awlad al-Zuid clan,625
+4850,3,Dinka,598,Nuer,660,2010,4,Sudan,Dinka - Nuer,625
+4850,3,Dinka,598,Nuer,660,2011,4,"Sudan, South Sudan",Dinka - Nuer,625
+4850,3,Dinka,598,Nuer,660,2013,4,South Sudan,Dinka - Nuer,626
+4850,3,Dinka,598,Nuer,660,2015,4,South Sudan,Dinka - Nuer,626
+4851,3,Jikany Nuer,992,Lou Nuer,706,2009,4,Sudan,Jikany Nuer - Lou Nuer,625
+4853,3,Rizeigat Abbala,676,Zaghawa,705,2017,4,Sudan,Rizeigat Abbala - Zaghawa,625
+4866,3,Dodoth,1038,Jie,633,2005,4,Uganda,Dodoth - Jie,500
+4866,3,Dodoth,1038,Jie,633,2009,4,Uganda,Dodoth - Jie,500
+4875,1,Forces of Jing Caludtiag,848,Forces of Randy Karon,849,2009,3,Philippines,Forces of Jing Caludtiag - Forces of Randy Karon,840
+4876,3,Afor,1002,Fulani,607,2009,4,Nigeria,Afor - Fulani,475
+4877,2,Supporters of Andry Rajoelina,1003,Supporters of Marc Ravalomanana,1041,2009,4,Madagascar (Malagasy),Supporters of Andry Rajoelina - Supporters of Marc Ravalomanana,580
+4878,1,Al-Shabaab,717,Hizbul Islam,1004,2009,4,Somalia,Al-Shabaab - Hizbul Islam,520
+4878,1,Al-Shabaab,717,Hizbul Islam,1004,2010,4,Somalia,Al-Shabaab - Hizbul Islam,520
+4879,3,Ngok Dinka,1005,Shiluk,1006,2009,4,Sudan,Ngok Dinka - Shiluk,625
+4880,3,Bari,1007,Mundari,1042,2009,4,Sudan,Bari - Mundari,625
+4881,3,Bor Dinka,708,Mundari,1042,2009,4,Sudan,Bor Dinka - Mundari,625
+4881,3,Bor Dinka,708,Mundari,1042,2017,4,South Sudan,Bor Dinka - Mundari,626
+4882,3,Aliap Dinka,1008,Mundari,1042,2009,4,Sudan,Aliap Dinka - Mundari,625
+4883,3,Luac Jang Dinka,1009,Awan Dinka,1010,2009,4,Sudan,Luac Jang Dinka - Awan Dinka,625
+4884,3,Fulani,607,Tarok,689,2013,4,Nigeria,Fulani - Tarok,475
+4887,1,Al-Shabaab,717,ONLF,497,2007,4,Ethiopia,Al-Shabaab - ONLF,530
+4891,3,Jie,633,Matheniko Karimojong,1029,2005,4,Uganda,Jie - Matheniko Karimojong,500
+4895,3,Christians (Nigeria),1020,Muslims (Nigeria),1021,2006,4,Nigeria,Christians (Nigeria) - Muslims (Nigeria),475
+4895,3,Christians (Nigeria),1020,Muslims (Nigeria),1021,2010,4,Nigeria,Christians (Nigeria) - Muslims (Nigeria),475
+4895,3,Christians (Nigeria),1020,Muslims (Nigeria),1021,2011,4,Nigeria,Christians (Nigeria) - Muslims (Nigeria),475
+4895,3,Christians (Nigeria),1020,Muslims (Nigeria),1021,2012,4,Nigeria,Christians (Nigeria) - Muslims (Nigeria),475
+4895,3,Christians (Nigeria),1020,Muslims (Nigeria),1021,2014,4,Nigeria,Christians (Nigeria) - Muslims (Nigeria),475
+4895,3,Christians (Nigeria),1020,Muslims (Nigeria),1021,2015,4,Nigeria,Christians (Nigeria) - Muslims (Nigeria),475
+4895,3,Christians (Nigeria),1020,Muslims (Nigeria),1021,2016,4,Nigeria,Christians (Nigeria) - Muslims (Nigeria),475
+4900,3,Kyrgyz,854,Uzbek,853,2010,3,Kyrgyzstan,Kyrgyz - Uzbek,703
+4902,3,Hindus (India),858,Muslims (India),859,2013,3,India,Hindus (India) - Muslims (India),750
+4912,1,Lashkar of Orakzai tribe,887,TTP,356,2009,3,Pakistan,Lashkar of Orakzai tribe - TTP,770
+4913,1,Forces of Turkestan Bhittani,888,TTP,356,2009,3,Pakistan,Forces of Turkestan Bhittani - TTP,770
+4924,3,Borana,591,Gabra,609,2005,4,Kenya,Borana - Gabra,501
+4924,3,Borana,591,Gabra,609,2006,4,Kenya,Borana - Gabra,501
+4924,3,Borana,591,Gabra,609,2007,4,"Kenya, Ethiopia",Borana - Gabra,501
+4924,3,Borana,591,Gabra,609,2012,4,Kenya,Borana - Gabra,501
+4925,3,Pokot,670,Samburu,925,2006,4,Kenya,Pokot - Samburu,501
+4925,3,Pokot,670,Samburu,925,2009,4,Kenya,Pokot - Samburu,501
+4926,3,Samburu,925,Turkana,693,2015,4,Kenya,Samburu - Turkana,501
+4933,1,Gulf Cartel,782,Los Zetas,1088,2010,5,Mexico,Gulf Cartel - Los Zetas,70
+4933,1,Gulf Cartel,782,Los Zetas,1088,2011,5,Mexico,Gulf Cartel - Los Zetas,70
+4933,1,Gulf Cartel,782,Los Zetas,1088,2012,5,Mexico,Gulf Cartel - Los Zetas,70
+4933,1,Gulf Cartel,782,Los Zetas,1088,2013,5,Mexico,Gulf Cartel - Los Zetas,70
+4933,1,Gulf Cartel,782,Los Zetas,1088,2014,5,Mexico,Gulf Cartel - Los Zetas,70
+4933,1,Gulf Cartel,782,Los Zetas,1088,2015,5,Mexico,Gulf Cartel - Los Zetas,70
+4933,1,Gulf Cartel,782,Los Zetas,1088,2016,5,Mexico,Gulf Cartel - Los Zetas,70
+4933,1,Gulf Cartel,782,Los Zetas,1088,2017,5,Mexico,Gulf Cartel - Los Zetas,70
+4934,1,Beltrán Leyva Cartel,1089,Beltrán Leyva Cartel - Valdez Villareal faction,1090,2010,5,Mexico,Beltrán Leyva Cartel - Beltrán Leyva Cartel - Valdez Villareal faction,70
+4935,1,Ansarallah,1091,AQAP,881,2010,2,Yemen (North Yemen),Ansarallah - AQAP,678
+4935,1,Ansarallah,1091,AQAP,881,2014,2,Yemen (North Yemen),Ansarallah - AQAP,678
+4936,1,Los Zetas,1088,Sinaloa Cartel,775,2010,5,Mexico,Los Zetas - Sinaloa Cartel,70
+4936,1,Los Zetas,1088,Sinaloa Cartel,775,2011,5,Mexico,Los Zetas - Sinaloa Cartel,70
+4936,1,Los Zetas,1088,Sinaloa Cartel,775,2012,5,Mexico,Los Zetas - Sinaloa Cartel,70
+4936,1,Los Zetas,1088,Sinaloa Cartel,775,2013,5,Mexico,Los Zetas - Sinaloa Cartel,70
+4936,1,Los Zetas,1088,Sinaloa Cartel,775,2014,5,Mexico,Los Zetas - Sinaloa Cartel,70
+4937,1,Lashkar-e-Islam,399,TTP,356,2010,3,Pakistan,Lashkar-e-Islam - TTP,770
+4938,1,Forces of Momin Afridi,1100,TTP - TA,1101,2010,3,Pakistan,Forces of Momin Afridi - TTP - TA,770
+4939,1,TTP - MR,1102,TTP - MT,1103,2010,3,Pakistan,TTP - MR - TTP - MT,770
+4940,3,Bangesh,790,Mangal,797,2010,3,Pakistan,Bangesh - Mangal,770
+4941,1,Mara 18 (Honduras),1099,Mara Salvatrucha (Honduras),778,2010,5,Honduras,Mara 18 (Honduras) - Mara Salvatrucha (Honduras),91
+4942,3,Suleiman subclan of Habar Gidir clan (Hawiye),687,Qubeys subclan (Dir),1098,2010,4,Somalia,Suleiman subclan of Habar Gidir clan (Hawiye) - Qubeys subclan (Dir),520
+4943,3,Gok Dinka,583,Rek Dinka,1097,2010,4,Sudan,Gok Dinka - Rek Dinka,625
+4943,3,Gok Dinka,583,Rek Dinka,1097,2012,4,South Sudan,Gok Dinka - Rek Dinka,626
+4944,1,Mujahideen in the Golis Mountains,1096,Puntland State of Somalia,671,2010,4,Somalia,Mujahideen in the Golis Mountains - Puntland State of Somalia,520
+4944,1,Mujahideen in the Golis Mountains,1096,Puntland State of Somalia,671,2011,4,Somalia,Mujahideen in the Golis Mountains - Puntland State of Somalia,520
+4944,1,Mujahideen in the Golis Mountains,1096,Puntland State of Somalia,671,2012,4,Somalia,Mujahideen in the Golis Mountains - Puntland State of Somalia,520
+4945,3,Boje,1094,Nsadop,1095,2010,4,Nigeria,Boje - Nsadop,475
+4946,3,Atuot Dinka,1092,Ciek Dinka,1093,2010,4,Sudan,Atuot Dinka - Ciek Dinka,625
+4947,1,Ahlu Sunna Waljamaca,894,Hizbul Islam,1004,2010,4,Somalia,Ahlu Sunna Waljamaca - Hizbul Islam,520
+4948,3,Birom,589,Fulani,607,2010,4,Nigeria,Birom - Fulani,475
+4948,3,Birom,589,Fulani,607,2011,4,Nigeria,Birom - Fulani,475
+4948,3,Birom,589,Fulani,607,2012,4,Nigeria,Birom - Fulani,475
+4948,3,Birom,589,Fulani,607,2013,4,Nigeria,Birom - Fulani,475
+4948,3,Birom,589,Fulani,607,2014,4,Nigeria,Birom - Fulani,475
+4948,3,Birom,589,Fulani,607,2015,4,Nigeria,Birom - Fulani,475
+4951,3,Dioula,599,Guéré,1109,2005,4,Ivory Coast,Dioula - Guéré,437
+4952,3,Guéré,1109,Senufo,1111,2005,4,Ivory Coast,Guéré - Senufo,437
+4953,3,Degodia,918,Garre,1079,2012,4,Kenya,Degodia - Garre,501
+4953,3,Degodia,918,Garre,1079,2013,4,Kenya,Degodia - Garre,501
+4953,3,Degodia,918,Garre,1079,2014,4,Kenya,Degodia - Garre,501
+4960,3,Copts (Egypt),1132,Muslims (Egypt),1133,2011,2,Egypt,Copts (Egypt) - Muslims (Egypt),651
+4961,1,Al-Shabaab,717,SVA,1147,2011,4,Somalia,Al-Shabaab - SVA,520
+4962,3,Guéré,1109,Malinké,1139,2011,4,Ivory Coast,Guéré - Malinké,437
+4963,1,FDC,1136,FDLR,528,2011,4,DR Congo (Zaire),FDC - FDLR,490
+4963,1,FDC,1136,FDLR,528,2012,4,DR Congo (Zaire),FDC - FDLR,490
+4964,1,BIFM,1146,MILF,276,2011,3,Philippines,BIFM - MILF,840
+4965,2,Opponents of al-Assad,1144,Supporters of al-Assad,1145,2011,2,Syria,Opponents of al-Assad - Supporters of al-Assad,652
+4966,3,Kpelle,1141,Malinké,1139,2011,4,Guinea,Kpelle - Malinké,438
+4967,1,Lashkar-e-Islam,399,Lashkar of Zakakhel tribe,1142,2011,3,Pakistan,Lashkar-e-Islam - Lashkar of Zakakhel tribe,770
+4967,1,Lashkar-e-Islam,399,Lashkar of Zakakhel tribe,1142,2012,3,Pakistan,Lashkar-e-Islam - Lashkar of Zakakhel tribe,770
+4968,1,Lashkar-e-Islam,399,TTP - TA,1101,2011,3,Pakistan,Lashkar-e-Islam - TTP - TA,770
+4968,1,Lashkar-e-Islam,399,TTP - TA,1101,2012,3,Pakistan,Lashkar-e-Islam - TTP - TA,770
+4969,1,CPJP,1053,UFDR,554,2011,4,Central African Republic,CPJP - UFDR,482
+4970,3,Borana,591,Turkana,693,2011,4,Kenya,Borana - Turkana,501
+4971,3,Hausa,608,Sayawa,1140,2011,4,Nigeria,Hausa - Sayawa,475
+4972,3,Ezilo,1134,Ezza,1135,2011,4,Nigeria,Ezilo - Ezza,475
+4973,3,Fulani,607,Tiv,1032,2011,4,Nigeria,Fulani - Tiv,475
+4973,3,Fulani,607,Tiv,1032,2012,4,Nigeria,Fulani - Tiv,475
+4973,3,Fulani,607,Tiv,1032,2013,4,Nigeria,Fulani - Tiv,475
+4973,3,Fulani,607,Tiv,1032,2014,4,Nigeria,Fulani - Tiv,475
+4973,3,Fulani,607,Tiv,1032,2015,4,Nigeria,Fulani - Tiv,475
+4973,3,Fulani,607,Tiv,1032,2016,4,Nigeria,Fulani - Tiv,475
+4973,3,Fulani,607,Tiv,1032,2017,4,Nigeria,Fulani - Tiv,475
+4974,3,Misseriya,1025,Ngok Dinka,1005,2011,4,Sudan,Misseriya - Ngok Dinka,625
+4974,3,Misseriya,1025,Ngok Dinka,1005,2014,4,Sudan,Misseriya - Ngok Dinka,625
+4974,3,Misseriya,1025,Ngok Dinka,1005,2015,4,Sudan,Misseriya - Ngok Dinka,625
+4975,3,Gony Dinka,1137,Thiyic Dinka,1138,2011,4,"Sudan, South Sudan",Gony Dinka - Thiyic Dinka,625
+4976,3,Atuot Dinka,1092,Jur Beli,1148,2011,4,Sudan,Atuot Dinka - Jur Beli,625
+4977,1,Laskhar of Masozai Qaumi tribe,1143,TTP,356,2011,3,Pakistan,Laskhar of Masozai Qaumi tribe - TTP,770
+4978,1,La Familia,1149,Los Caballeros Templarios,1150,2011,5,Mexico,La Familia - Los Caballeros Templarios,70
+4978,1,La Familia,1149,Los Caballeros Templarios,1150,2012,5,Mexico,La Familia - Los Caballeros Templarios,70
+4979,1,Jalisco Cartel New Generation,1151,Los Zetas,1088,2011,5,Mexico,Jalisco Cartel New Generation - Los Zetas,70
+4979,1,Jalisco Cartel New Generation,1151,Los Zetas,1088,2012,5,Mexico,Jalisco Cartel New Generation - Los Zetas,70
+4979,1,Jalisco Cartel New Generation,1151,Los Zetas,1088,2014,5,Mexico,Jalisco Cartel New Generation - Los Zetas,70
+4979,1,Jalisco Cartel New Generation,1151,Los Zetas,1088,2015,5,Mexico,Jalisco Cartel New Generation - Los Zetas,70
+4979,1,Jalisco Cartel New Generation,1151,Los Zetas,1088,2016,5,Mexico,Jalisco Cartel New Generation - Los Zetas,70
+4979,1,Jalisco Cartel New Generation,1151,Los Zetas,1088,2017,5,Mexico,Jalisco Cartel New Generation - Los Zetas,70
+4980,1,Cartel Independiente de Acapulco,1152,La Barredora,1153,2011,5,Mexico,Cartel Independiente de Acapulco - La Barredora,70
+4980,1,Cartel Independiente de Acapulco,1152,La Barredora,1153,2015,5,Mexico,Cartel Independiente de Acapulco - La Barredora,70
+4980,1,Cartel Independiente de Acapulco,1152,La Barredora,1153,2017,5,Mexico,Cartel Independiente de Acapulco - La Barredora,70
+4981,1,Jalisco Cartel New Generation,1151,La Resistencia,1154,2011,5,Mexico,Jalisco Cartel New Generation - La Resistencia,70
+4982,1,Lashkar of Kukikhel clan,1155,TTP,356,2011,3,Pakistan,Lashkar of Kukikhel clan - TTP,770
+4985,1,Deebam,1167,Deewell,1168,2006,4,Nigeria,Deebam - Deewell,475
+4985,1,Deebam,1167,Deewell,1168,2015,4,Nigeria,Deebam - Deewell,475
+4986,1,"Black Axe, Bush Boys, Deebam, KK, NDV",3871,Outlaws,1169,2007,4,Nigeria,"Black Axe, Bush Boys, Deebam, KK, NDV - Outlaws",475
+4987,3,Alago,1171,Eggon,1172,2012,4,Nigeria,Alago - Eggon,475
+4987,3,Alago,1171,Eggon,1172,2013,4,Nigeria,Alago - Eggon,475
+4988,1,Greenlanders,1173,NDV,657,2012,4,Nigeria,Greenlanders - NDV,475
+4988,1,Greenlanders,1173,NDV,657,2016,4,Nigeria,Greenlanders - NDV,475
+4990,1,Lashkar-e-Islam,399,Lashkar of Akakhel tribe,1177,2012,3,Pakistan,Lashkar-e-Islam - Lashkar of Akakhel tribe,770
+4992,3,Dimasa,597,Zeme Naga,1180,2009,3,India,Dimasa - Zeme Naga,750
+4994,2,Supporters of al-Ahly football team,1183,Supporters of al-Masry football team,1184,2012,2,Egypt,Supporters of al-Ahly football team - Supporters of al-Masry football team,651
+4996,3,"Gontrar, Zintan",3876,Mashashia,1188,2012,4,Libya,"Gontrar, Zintan - Mashashia",620
+4998,1,Forces of Agala,1191,Forces of Edu,1192,2005,4,Nigeria,Forces of Agala - Forces of Edu,475
+4999,3,Alawite (Lebanon),1194,Sunni (Lebanon),1195,2012,2,Lebanon,Alawite (Lebanon) - Sunni (Lebanon),660
+4999,3,Alawite (Lebanon),1194,Sunni (Lebanon),1195,2013,2,Lebanon,Alawite (Lebanon) - Sunni (Lebanon),660
+4999,3,Alawite (Lebanon),1194,Sunni (Lebanon),1195,2014,2,Lebanon,Alawite (Lebanon) - Sunni (Lebanon),660
+5038,3,Orma,931,Pokomo,933,2012,4,Kenya,Orma - Pokomo,501
+5039,3,Dogon,1219,Fulani,607,2012,4,Mali,Dogon - Fulani,432
+5039,3,Dogon,1219,Fulani,607,2017,4,Mali,Dogon - Fulani,432
+5040,1,"AQIM, Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, MUJAO",3872,CMA,1158,2012,4,Mali,"AQIM, Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, MUJAO - CMA",432
+5041,1,CMA,1158,"MUJAO, Signed-in-Blood Battalion",3873,2012,4,Mali,"CMA - MUJAO, Signed-in-Blood Battalion",432
+5042,1,APCLS,1200,M23,1160,2012,4,DR Congo (Zaire),APCLS - M23,490
+5043,3,Bul Nuer,1220,Luac Jang Dinka,1009,2012,4,South Sudan,Bul Nuer - Luac Jang Dinka,626
+5045,3,Balanda,1224,Dinka,598,2012,4,South Sudan,Balanda - Dinka,626
+5046,1,FDLR,528,Raia Mutomboki,1199,2012,4,DR Congo (Zaire),FDLR - Raia Mutomboki,490
+9637,3,Konianke,1713,Kpelle,1141,2013,4,Guinea,Konianke - Kpelle,438
+9691,3,Northern Sudanese,1972,Southern Sudanese,1973,2005,4,Sudan,Northern Sudanese - Southern Sudanese,625
+9708,3,Habaniya,615,Salamat Baggara,994,2017,4,Sudan,Habaniya - Salamat Baggara,625
+10289,1,NSCN-K,224,NSCN-K-K,2430,2012,3,India,NSCN-K - NSCN-K-K,750
+10310,3,Han Chinese,2460,Uighur,2461,2009,3,China,Han Chinese - Uighur,710
+10444,3,Buddhists (Myanmar),2698,Muslims (Myanmar),2699,2012,3,Myanmar (Burma),Buddhists (Myanmar) - Muslims (Myanmar),775
+10444,3,Buddhists (Myanmar),2698,Muslims (Myanmar),2699,2013,3,Myanmar (Burma),Buddhists (Myanmar) - Muslims (Myanmar),775
+10513,2,Supporters of Awami League,372,Supporters of Jamaat-e-Islami,2765,2013,3,Bangladesh,Supporters of Awami League - Supporters of Jamaat-e-Islami,771
+10732,1,Lashkar of Mohmand tribe,2987,TTP,356,2009,3,Pakistan,Lashkar of Mohmand tribe - TTP,770
+10773,1,Lashkar-e-Islam,399,Tawheed ul-Islam,1178,2012,3,Pakistan,Lashkar-e-Islam - Tawheed ul-Islam,770
+10780,3,Bangladeshi Immigrants,3057,Bodo,814,2012,3,India,Bangladeshi Immigrants - Bodo,750
+10823,1,Black Axe,3107,Eyie,3108,2011,4,Nigeria,Black Axe - Eyie,475
+10823,1,Black Axe,3107,Eyie,3108,2013,4,Nigeria,Black Axe - Eyie,475
+10823,1,Black Axe,3107,Eyie,3108,2015,4,Nigeria,Black Axe - Eyie,475
+10823,1,Black Axe,3107,Eyie,3108,2016,4,Nigeria,Black Axe - Eyie,475
+10823,1,Black Axe,3107,Eyie,3108,2017,4,Nigeria,Black Axe - Eyie,475
+10831,1,Black Axe,3107,Maphite,3116,2015,4,Nigeria,Black Axe - Maphite,475
+10938,1,Khatumo administration,3211,Republic of Somaliland,675,2012,4,Somalia,Khatumo administration - Republic of Somaliland,520
+10948,3,Akul,3228,Kambrip,3229,2012,3,Papua New Guinea,Akul - Kambrip,910
+11052,1,Jalisco Cartel New Generation,1151,Los Caballeros Templarios,1150,2012,5,Mexico,Jalisco Cartel New Generation - Los Caballeros Templarios,70
+11052,1,Jalisco Cartel New Generation,1151,Los Caballeros Templarios,1150,2013,5,Mexico,Jalisco Cartel New Generation - Los Caballeros Templarios,70
+11052,1,Jalisco Cartel New Generation,1151,Los Caballeros Templarios,1150,2014,5,Mexico,Jalisco Cartel New Generation - Los Caballeros Templarios,70
+11053,1,Beltrán Leyva Cartel,1089,Sinaloa Cartel,775,2008,5,Mexico,Beltrán Leyva Cartel - Sinaloa Cartel,70
+11053,1,Beltrán Leyva Cartel,1089,Sinaloa Cartel,775,2014,5,Mexico,Beltrán Leyva Cartel - Sinaloa Cartel,70
+11053,1,Beltrán Leyva Cartel,1089,Sinaloa Cartel,775,2015,5,Mexico,Beltrán Leyva Cartel - Sinaloa Cartel,70
+11053,1,Beltrán Leyva Cartel,1089,Sinaloa Cartel,775,2016,5,Mexico,Beltrán Leyva Cartel - Sinaloa Cartel,70
+11055,1,Los Zetas - Cártel del Noreste faction,3296,Los Zetas - Old School Zetas faction,3297,2016,5,Mexico,Los Zetas - Cártel del Noreste faction - Los Zetas - Old School Zetas faction,70
+11058,1,Guerreros Unidos,3298,Los Rojos,3299,2014,5,Mexico,Guerreros Unidos - Los Rojos,70
+11058,1,Guerreros Unidos,3298,Los Rojos,3299,2015,5,Mexico,Guerreros Unidos - Los Rojos,70
+11072,2,Opponents of Morsi,3307,Supporters of Morsi,3306,2013,2,Egypt,Opponents of Morsi - Supporters of Morsi,651
+11094,1,Los Zetas,1088,Los Zetas - Velazquez Caballero faction,3323,2012,5,Mexico,Los Zetas - Los Zetas - Velazquez Caballero faction,70
+11125,3,Birom,589,"Fulani, Hausa",3800,2010,4,Nigeria,"Birom - Fulani, Hausa",475
+11191,3,Christians (CAR),3555,Muslims (CAR),3556,2013,4,Central African Republic,Christians (CAR) - Muslims (CAR),482
+11191,3,Christians (CAR),3555,Muslims (CAR),3556,2014,4,Central African Republic,Christians (CAR) - Muslims (CAR),482
+11191,3,Christians (CAR),3555,Muslims (CAR),3556,2015,4,Central African Republic,Christians (CAR) - Muslims (CAR),482
+11200,3,Amothnhon Dinka,3568,Panyon Dinka,3569,2013,4,South Sudan,Amothnhon Dinka - Panyon Dinka,626
+11211,3,Al-Zayadia,3579,Berti,3580,2015,4,Sudan,Al-Zayadia - Berti,625
+11328,1,Ansar Dine,1157,CMA,1158,2015,4,Mali,Ansar Dine - CMA,432
+11330,1,Ganda Iso,3157,CMA,1158,2012,4,Mali,Ganda Iso - CMA,432
+11427,1,NURTW-Auxiliary,3981,NURTW-Tokyo,3332,2011,4,Nigeria,NURTW-Auxiliary - NURTW-Tokyo,475
+11480,1,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,Yan Gora,4000,2013,4,Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,475
+11480,1,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,Yan Gora,4000,2014,4,Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,475
+11480,1,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,Yan Gora,4000,2015,4,Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,475
+11480,1,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,Yan Gora,4000,2017,4,Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,475
+11500,3,Atakar,4022,Fulani,607,2013,4,Nigeria,Atakar - Fulani,475
+11502,3,Hausa,608,Jukun,950,2013,4,Nigeria,Hausa - Jukun,475
+11632,3,Agatu,4120,Tiv,1032,2013,4,Nigeria,Agatu - Tiv,475
+11649,1,M23,1160,M23-R,4130,2013,4,DR Congo (Zaire),M23 - M23-R,490
+11665,1,APCLS,1200,NDC,3037,2013,4,DR Congo (Zaire),APCLS - NDC,490
+11671,1,Hezbollah,366,Jabhat Fateh al-Sham,1170,2013,2,Lebanon,Hezbollah - Jabhat Fateh al-Sham,660
+11671,1,Hezbollah,366,Jabhat Fateh al-Sham,1170,2014,2,"Syria, Lebanon",Hezbollah - Jabhat Fateh al-Sham,652
+11671,1,Hezbollah,366,Jabhat Fateh al-Sham,1170,2015,2,Lebanon,Hezbollah - Jabhat Fateh al-Sham,660
+11675,3,Agatu,4120,Fulani,607,2013,4,Nigeria,Agatu - Fulani,475
+11675,3,Agatu,4120,Fulani,607,2015,4,Nigeria,Agatu - Fulani,475
+11675,3,Agatu,4120,Fulani,607,2016,4,Nigeria,Agatu - Fulani,475
+11679,1,"FSA, Jabhat Fateh al-Sham",4166,PYD,4163,2012,2,Syria,"FSA, Jabhat Fateh al-Sham - PYD",652
+11680,1,"Ghuraba al-Sham, Jabhat Fateh al-Sham",4168,PYD,4163,2012,2,Syria,"Ghuraba al-Sham, Jabhat Fateh al-Sham - PYD",652
+11694,1,Brigades of Aisha,4183,Hezbollah,366,2013,2,Lebanon,Brigades of Aisha - Hezbollah,660
+11704,1,anti-Balaka,4201,FPRC,4007,2013,4,Central African Republic,anti-Balaka - FPRC,482
+11704,1,anti-Balaka,4201,FPRC,4007,2014,4,Central African Republic,anti-Balaka - FPRC,482
+11704,1,anti-Balaka,4201,FPRC,4007,2017,4,Central African Republic,anti-Balaka - FPRC,482
+11708,3,Beni Hussein,1945,Rizeigat Abbala,676,2013,4,Sudan,Beni Hussein - Rizeigat Abbala,625
+11708,3,Beni Hussein,1945,Rizeigat Abbala,676,2014,4,Sudan,Beni Hussein - Rizeigat Abbala,625
+11709,3,Awlad Heiban (Misseriya),4203,"Awlad Metanin (Misseriya) , Awlad Serur (Misseriya)",4532,2013,4,Sudan,"Awlad Heiban (Misseriya) - Awlad Metanin (Misseriya) , Awlad Serur (Misseriya)",625
+11712,3,Beni Halba Baggara,995,Gimir,1923,2013,4,Sudan,Beni Halba Baggara - Gimir,625
+11715,1,Ansaar ul-Islam,398,TTP,356,2013,3,Pakistan,Ansaar ul-Islam - TTP,770
+11721,3,Misseriya,1025,Salamat Baggara,994,2013,4,Sudan,Misseriya - Salamat Baggara,625
+11721,3,Misseriya,1025,Salamat Baggara,994,2014,4,Sudan,Misseriya - Salamat Baggara,625
+11721,3,Misseriya,1025,Salamat Baggara,994,2017,4,Sudan,Misseriya - Salamat Baggara,625
+11729,3,Hamar,1080,Ma'aliyah,641,2013,4,Sudan,Hamar - Ma'aliyah,625
+11729,3,Hamar,1080,Ma'aliyah,641,2014,4,Sudan,Hamar - Ma'aliyah,625
+11755,3,Eggon,1172,Fulani,607,2014,4,Nigeria,Eggon - Fulani,475
+11777,3,Kuteb,1487,Tiv,1032,2015,4,Nigeria,Kuteb - Tiv,475
+11780,3,Ikpanaya,4290,Ntan Obu-Ukpe,4291,2012,4,Nigeria,Ikpanaya - Ntan Obu-Ukpe,475
+11863,1,MAA,4380,CMA,1158,2013,4,Mali,MAA - CMA,432
+11897,1,Amigos dos Amigos,4416,Comando Vermelho,772,2009,5,Brazil,Amigos dos Amigos - Comando Vermelho,140
+11934,1,Comando Vermelho,772,Terceiro Comando Puro,4462,2011,5,Brazil,Comando Vermelho - Terceiro Comando Puro,140
+11936,3,Borana,591,"Burji, Gabra",4463,2013,4,Kenya,"Borana - Burji, Gabra",501
+11940,1,Autodefensas Unidas de Michoacán,4475,Los Caballeros Templarios,1150,2013,5,Mexico,Autodefensas Unidas de Michoacán - Los Caballeros Templarios,70
+11949,1,Gulf Cartel - Ramirez Treviño faction,4486,Gulf Cartel - Villareal faction,4487,2013,5,Mexico,Gulf Cartel - Ramirez Treviño faction - Gulf Cartel - Villareal faction,70
+11955,1,La Mochomera,4492,Sinaloa Cartel,775,2013,5,Mexico,La Mochomera - Sinaloa Cartel,70
+12994,1,"IS, Jabhat Fateh al-Sham",5540,PYD,4163,2013,2,Syria,"IS, Jabhat Fateh al-Sham - PYD",652
+12995,1,Jabhat Fateh al-Sham,1170,PYD,4163,2013,2,Syria,Jabhat Fateh al-Sham - PYD,652
+12996,1,"FSA, Jabhat Fateh al-Sham, Mish'al at Tammu Brigade",5539,PYD,4163,2013,2,Syria,"FSA, Jabhat Fateh al-Sham, Mish'al at Tammu Brigade - PYD",652
+12997,1,FSA,1130,IS,234,2013,2,"Syria, Iraq",FSA - IS,652
+12997,1,FSA,1130,IS,234,2014,2,Syria,FSA - IS,652
+12998,1,FSA,1130,PYD,4163,2013,2,Syria,FSA - PYD,652
+12999,1,"FSA, Jabhat Fateh al-Sham",4166,Jabhat al-Akrad,5541,2013,2,Syria,"FSA, Jabhat Fateh al-Sham - Jabhat al-Akrad",652
+13015,1,"FSA, IS",5559,PYD,4163,2014,2,Syria,"FSA, IS - PYD",652
+13022,1,IS,234,PYD,4163,2014,2,Syria,IS - PYD,652
+13022,1,IS,234,PYD,4163,2015,2,Syria,IS - PYD,652
+13034,1,IS,234,Jabhat Fateh al-Sham,1170,2014,2,Syria,IS - Jabhat Fateh al-Sham,652
+13034,1,IS,234,Jabhat Fateh al-Sham,1170,2015,2,Syria,IS - Jabhat Fateh al-Sham,652
+13034,1,IS,234,Jabhat Fateh al-Sham,1170,2016,2,"Lebanon, Syria",IS - Jabhat Fateh al-Sham,660
+13167,3,Fulani,607,Jukun,950,2014,4,Nigeria,Fulani - Jukun,475
+13167,3,Fulani,607,Jukun,950,2015,4,Nigeria,Fulani - Jukun,475
+13191,2,Supporters of APC,5787,Supporters of PDP,668,2015,4,Nigeria,Supporters of APC - Supporters of PDP,475
+13194,1,FDC,1136,Groupe de Sécurité (Nyatura Kasongo),4314,2014,4,DR Congo (Zaire),FDC - Groupe de Sécurité (Nyatura Kasongo),490
+13196,3,Bani Hilal,5792,Nubian Dabudiya,5793,2014,2,Egypt,Bani Hilal - Nubian Dabudiya,651
+13202,3,Toubou,3998,Awlad Suleiman,4371,2014,4,Libya,Toubou - Awlad Suleiman,620
+13204,1,Benghazi Revolutionaries Shura Council,4369,Forces of the House of Representatives,5802,2014,4,Libya,Benghazi Revolutionaries Shura Council - Forces of the House of Representatives,620
+13204,1,Benghazi Revolutionaries Shura Council,4369,Forces of the House of Representatives,5802,2015,4,Libya,Benghazi Revolutionaries Shura Council - Forces of the House of Representatives,620
+13204,1,Benghazi Revolutionaries Shura Council,4369,Forces of the House of Representatives,5802,2016,4,Libya,Benghazi Revolutionaries Shura Council - Forces of the House of Representatives,620
+13204,1,Benghazi Revolutionaries Shura Council,4369,Forces of the House of Representatives,5802,2017,4,Libya,Benghazi Revolutionaries Shura Council - Forces of the House of Representatives,620
+13221,1,Raia Mutomboki - Bravo,5821,Raia Mutomboki - Makombo,5822,2014,4,DR Congo (Zaire),Raia Mutomboki - Bravo - Raia Mutomboki - Makombo,490
+13225,3,Baluba,4383,Batwa,2398,2016,4,DR Congo (Zaire),Baluba - Batwa,490
+13225,3,Baluba,4383,Batwa,2398,2017,4,DR Congo (Zaire),Baluba - Batwa,490
+13240,2,Supporters of independence for Eastern Ukraine,5837,Supporters of Ukrainian unity,5836,2014,1,Ukraine,Supporters of independence for Eastern Ukraine - Supporters of Ukrainian unity,369
+13263,1,TTP-KM,5864,TTP-SM,5865,2014,3,Pakistan,TTP-KM - TTP-SM,770
+13265,1,IS,234,JRTN,4359,2014,2,Iraq,IS - JRTN,645
+13325,1,Hezbollah,366,IS,234,2015,2,Lebanon,Hezbollah - IS,660
+13332,1,Libya Dawn,5861,Zintan Military Council,5940,2014,4,Libya,Libya Dawn - Zintan Military Council,620
+13361,3,Hutu,915,Nande,2397,2016,4,DR Congo (Zaire),Hutu - Nande,490
+13362,3,Bafulero,3441,"Banyamulenge, Barundi",5976,2014,4,DR Congo (Zaire),"Bafulero - Banyamulenge, Barundi",490
+13384,1,anti-Balaka,4201,UPC (Ali Darass Fulani supporters),5999,2014,4,Central African Republic,anti-Balaka - UPC (Ali Darass Fulani supporters),482
+13384,1,anti-Balaka,4201,UPC (Ali Darass Fulani supporters),5999,2015,4,Central African Republic,anti-Balaka - UPC (Ali Darass Fulani supporters),482
+13384,1,anti-Balaka,4201,UPC (Ali Darass Fulani supporters),5999,2016,4,Central African Republic,anti-Balaka - UPC (Ali Darass Fulani supporters),482
+13384,1,anti-Balaka,4201,UPC (Ali Darass Fulani supporters),5999,2017,4,Central African Republic,anti-Balaka - UPC (Ali Darass Fulani supporters),482
+13389,3,Eggon,1172,Gwandere,6001,2014,4,Nigeria,Eggon - Gwandere,475
+13391,1,Gulf Cartel - Dragones de Sheyla faction,6003,Gulf Cartel - Los Fresitas faction,6002,2014,5,Mexico,Gulf Cartel - Dragones de Sheyla faction - Gulf Cartel - Los Fresitas faction,70
+13393,1,Sinaloa Cartel - Los Chavez Matamoros faction,6008,Sinaloa Cartel - Los Salgueiro faction,6007,2014,5,Mexico,Sinaloa Cartel - Los Chavez Matamoros faction - Sinaloa Cartel - Los Salgueiro faction,70
+13394,1,Los Ardillos,6009,Los Rojos,3299,2015,5,Mexico,Los Ardillos - Los Rojos,70
+13394,1,Los Ardillos,6009,Los Rojos,3299,2016,5,Mexico,Los Ardillos - Los Rojos,70
+13394,1,Los Ardillos,6009,Los Rojos,3299,2017,5,Mexico,Los Ardillos - Los Rojos,70
+13397,1,IS,234,Islamic Front,5575,2014,2,Syria,IS - Islamic Front,652
+13398,1,IS,234,SRF,6011,2014,2,Syria,IS - SRF,652
+13400,1,IS,234,Mujahideen Army,6012,2014,2,Syria,IS - Mujahideen Army,652
+13402,1,Jabhat Fateh al-Sham,1170,SRF,6011,2014,2,Syria,Jabhat Fateh al-Sham - SRF,652
+13403,1,IS,234,"Islamic Front, Mujahideen Army, SRF",6014,2014,2,Syria,"IS - Islamic Front, Mujahideen Army, SRF",652
+13404,1,Harkat Hazm,6015,Jabhat Fateh al-Sham,1170,2014,2,Syria,Harkat Hazm - Jabhat Fateh al-Sham,652
+13404,1,Harkat Hazm,6015,Jabhat Fateh al-Sham,1170,2015,2,Syria,Harkat Hazm - Jabhat Fateh al-Sham,652
+13408,1,Sinaloa Cartel,775,Tijuana Cartel,799,2006,5,Mexico,Sinaloa Cartel - Tijuana Cartel,70
+13408,1,Sinaloa Cartel,775,Tijuana Cartel,799,2007,5,Mexico,Sinaloa Cartel - Tijuana Cartel,70
+13408,1,Sinaloa Cartel,775,Tijuana Cartel,799,2015,5,Mexico,Sinaloa Cartel - Tijuana Cartel,70
+13410,1,"IS, Islamic Front, Jabhat Fateh al-Sham",6024,PYD,4163,2014,2,Syria,"IS, Islamic Front, Jabhat Fateh al-Sham - PYD",652
+13416,1,IS,234,"Islamic Front, Jabhat al-Akrad, Jabhat Fateh al-Sham, Mujahideen Army",6030,2014,2,Syria,"IS - Islamic Front, Jabhat al-Akrad, Jabhat Fateh al-Sham, Mujahideen Army",652
+13424,1,IS,234,"Islamic Front, Jabhat Al-Kurd brigade, Jabhat Fateh al-Sham, Mujahideen Army",6036,2014,2,Syria,"IS - Islamic Front, Jabhat Al-Kurd brigade, Jabhat Fateh al-Sham, Mujahideen Army",652
+13429,1,IS,234,"Islamic Front, Jabhat Fateh al-Sham",6040,2014,2,Syria,"IS - Islamic Front, Jabhat Fateh al-Sham",652
+13434,1,IS,234,"Islamic Front, Mujahideen Army",6043,2014,2,Syria,"IS - Islamic Front, Mujahideen Army",652
+13441,1,IS,234,"Islamic Front, Jabhat Fateh al-Sham, Mujahideen Army",6069,2014,2,Syria,"IS - Islamic Front, Jabhat Fateh al-Sham, Mujahideen Army",652
+13445,1,IS,234,"Islamic Front, Mujahideen Army, PYD, SRF",6073,2014,2,Syria,"IS - Islamic Front, Mujahideen Army, PYD, SRF",652
+13533,1,Forces of Mullah Abdol Rauf Khadim,6194,Taleban,303,2015,3,Afghanistan,Forces of Mullah Abdol Rauf Khadim - Taleban,700
+13540,1,IS,234,Taleban,303,2015,3,Afghanistan,IS - Taleban,700
+13540,1,IS,234,Taleban,303,2016,3,Afghanistan,IS - Taleban,700
+13540,1,IS,234,Taleban,303,2017,3,"Afghanistan, Pakistan",IS - Taleban,700
+13542,1,Eyie,3108,Maphite,3116,2015,4,Nigeria,Eyie - Maphite,475
+13558,3,Falata,691,Salamat Baggara,994,2015,4,Sudan,Falata - Salamat Baggara,625
+13558,3,Falata,691,Salamat Baggara,994,2016,4,Sudan,Falata - Salamat Baggara,625
+13584,3,Masalit,993,Rizeigat Baggara,703,2016,4,Sudan,Masalit - Rizeigat Baggara,625
+13586,1,Taleban,303,High Council of Afghanistan Islamic Emirate,6252,2015,3,Afghanistan,Taleban - High Council of Afghanistan Islamic Emirate,700
+13586,1,Taleban,303,High Council of Afghanistan Islamic Emirate,6252,2016,3,Afghanistan,Taleban - High Council of Afghanistan Islamic Emirate,700
+13586,1,Taleban,303,High Council of Afghanistan Islamic Emirate,6252,2017,3,Afghanistan,Taleban - High Council of Afghanistan Islamic Emirate,700
+13587,1,AQAP,881,Forces of Hadi,6254,2015,2,Yemen (North Yemen),AQAP - Forces of Hadi,678
+13587,1,AQAP,881,Forces of Hadi,6254,2016,2,Yemen (North Yemen),AQAP - Forces of Hadi,678
+13587,1,AQAP,881,Forces of Hadi,6254,2017,2,Yemen (North Yemen),AQAP - Forces of Hadi,678
+13597,1,IS,234,Forces of Hadi,6254,2015,2,Yemen (North Yemen),IS - Forces of Hadi,678
+13597,1,IS,234,Forces of Hadi,6254,2016,2,Yemen (North Yemen),IS - Forces of Hadi,678
+13597,1,IS,234,Forces of Hadi,6254,2017,2,Yemen (North Yemen),IS - Forces of Hadi,678
+13616,1,IS,234,SDF,6288,2015,2,Syria,IS - SDF,652
+13616,1,IS,234,SDF,6288,2016,2,Syria,IS - SDF,652
+13616,1,IS,234,SDF,6288,2017,2,Syria,IS - SDF,652
+13642,1,IS,234,Yan Gora,4000,2015,4,Nigeria,IS - Yan Gora,475
+13642,1,IS,234,Yan Gora,4000,2016,4,Nigeria,IS - Yan Gora,475
+13649,3,Luac Jang Dinka,1009,Thiyic Dinka,1138,2015,4,South Sudan,Luac Jang Dinka - Thiyic Dinka,626
+13651,1,"High Council of Afghanistan Islamic Emirate, IS",6318,Taleban,303,2015,3,Afghanistan,"High Council of Afghanistan Islamic Emirate, IS - Taleban",700
+13678,3,Toubou,3998,Zaghawa,705,2017,4,Chad,Toubou - Zaghawa,483
+13681,3,"Kuei Dinka, Pakam Dinka",6344,Rup Dinka,6343,2015,4,South Sudan,"Kuei Dinka, Pakam Dinka - Rup Dinka",626
+13683,1,CMA,1158,GATIA,5880,2016,4,Mali,CMA - GATIA,432
+13683,1,CMA,1158,GATIA,5880,2017,4,Mali,CMA - GATIA,432
+13686,1,CMA,1158,"CM-FPR, GATIA, MAA",6349,2014,4,Mali,"CMA - CM-FPR, GATIA, MAA",432
+13695,1,Forces of the House of Representatives,5802,IS,234,2015,4,Libya,Forces of the House of Representatives - IS,620
+13695,1,Forces of the House of Representatives,5802,IS,234,2016,4,Libya,Forces of the House of Representatives - IS,620
+13695,1,Forces of the House of Representatives,5802,IS,234,2017,4,Libya,Forces of the House of Representatives - IS,620
+13697,1,"FSA, Jabhat Fateh al-Sham, Jaysh al-Islam, Levant Front",6361,SDF,6288,2016,2,Syria,"FSA, Jabhat Fateh al-Sham, Jaysh al-Islam, Levant Front - SDF",652
+13698,1,Deebam,1167,NDV,657,2016,4,Nigeria,Deebam - NDV,475
+13698,1,Deebam,1167,NDV,657,2017,4,Nigeria,Deebam - NDV,475
+13702,1,IS,234,"Jaysh al-Sanadid, Khabour Guards, MFS, PYD",6367,2015,2,Syria,"IS - Jaysh al-Sanadid, Khabour Guards, MFS, PYD",652
+13704,1,IS,234,"Jaysh al-Sanadid, MFS, PYD",6370,2015,2,Syria,"IS - Jaysh al-Sanadid, MFS, PYD",652
+13705,1,Derna Mujahideen Shura Council,6371,IS,234,2015,4,Libya,Derna Mujahideen Shura Council - IS,620
+13705,1,Derna Mujahideen Shura Council,6371,IS,234,2016,4,Libya,Derna Mujahideen Shura Council - IS,620
+13709,1,"Aknaf Bait al-Maqdis, FSA, Jaysh al-Islam, PFLP-GC, PLO",6378,IS,234,2015,2,Syria,"Aknaf Bait al-Maqdis, FSA, Jaysh al-Islam, PFLP-GC, PLO - IS",652
+13712,1,"Ahrar al-Sham, Ajnad al-Sham, Jabhat Fateh al-Sham, Jaysh al-Sunna, Liwa al-Aqsa, Liwa al-Haq Idlib, Sham Legion",6380,IS,234,2015,2,Syria,"Ahrar al-Sham, Ajnad al-Sham, Jabhat Fateh al-Sham, Jaysh al-Sunna, Liwa al-Aqsa, Liwa al-Haq Idlib, Sham Legion - IS",652
+13724,1,"Ahrar al-Sham, Jabhat Fateh al-Sham",6389,Shohadaa al-Yarmouk,6285,2015,2,Syria,"Ahrar al-Sham, Jabhat Fateh al-Sham - Shohadaa al-Yarmouk",652
+13725,1,Eastern Qalamoun Operations Room,6390,IS,234,2015,2,Syria,Eastern Qalamoun Operations Room - IS,652
+13726,1,IS,234,Jaysh al-Islam,6377,2017,2,Syria,IS - Jaysh al-Islam,652
+13728,1,Derna Mujahideen Shura Council,6371,Forces of the House of Representatives,5802,2016,4,Libya,Derna Mujahideen Shura Council - Forces of the House of Representatives,620
+13728,1,Derna Mujahideen Shura Council,6371,Forces of the House of Representatives,5802,2017,4,Libya,Derna Mujahideen Shura Council - Forces of the House of Representatives,620
+13729,1,Ajdabiya Revolutionaries Shura Council,6400,Forces of the House of Representatives,5802,2015,4,Libya,Ajdabiya Revolutionaries Shura Council - Forces of the House of Representatives,620
+13730,3,Toubou,3998,Touareg,937,2015,4,"Libya, Niger",Toubou - Touareg,620
+13732,3,Toubou,3998,Zwai,6403,2015,4,Libya,Toubou - Zwai,620
+13735,1,Sinaloa Cartel - Los Memos faction,6481,Sinaloa Cartel - Los Salazar faction,6482,2015,5,Mexico,Sinaloa Cartel - Los Memos faction - Sinaloa Cartel - Los Salazar faction,70
+13737,1,Jalisco Cartel New Generation,1151,Sinaloa Cartel,775,2015,5,Mexico,Jalisco Cartel New Generation - Sinaloa Cartel,70
+13737,1,Jalisco Cartel New Generation,1151,Sinaloa Cartel,775,2016,5,Mexico,Jalisco Cartel New Generation - Sinaloa Cartel,70
+13737,1,Jalisco Cartel New Generation,1151,Sinaloa Cartel,775,2017,5,Mexico,Jalisco Cartel New Generation - Sinaloa Cartel,70
+13738,1,Sinaloa Cartel,775,Forces of Damaso,6485,2015,5,Mexico,Sinaloa Cartel - Forces of Damaso,70
+13738,1,Sinaloa Cartel,775,Forces of Damaso,6485,2017,5,Mexico,Sinaloa Cartel - Forces of Damaso,70
+13739,1,Sinaloa Cartel - El Pepillo faction,6487,Sinaloa Cartel - Los 28 faction,6486,2015,5,Mexico,Sinaloa Cartel - El Pepillo faction - Sinaloa Cartel - Los 28 faction,70
+13741,1,Jaysh al-Mukhtar,4357,MEK,308,2015,2,Iraq,Jaysh al-Mukhtar - MEK,645
+13744,1,Euphrates Volcano,6419,IS,234,2015,2,Syria,Euphrates Volcano - IS,652
+13745,1,Fatah Halab,6436,IS,234,2015,2,Syria,Fatah Halab - IS,652
+13745,1,Fatah Halab,6436,IS,234,2016,2,Syria,Fatah Halab - IS,652
+13746,1,Fatah Halab,6436,SDF,6288,2015,2,Syria,Fatah Halab - SDF,652
+13746,1,Fatah Halab,6436,SDF,6288,2016,2,Syria,Fatah Halab - SDF,652
+13747,1,"Fatah Halab, Jabhat Fateh al-Sham",6495,IS,234,2015,2,Syria,"Fatah Halab, Jabhat Fateh al-Sham - IS",652
+13749,3,Bakonzo,5904,Bamba,6496,2016,4,Uganda,Bakonzo - Bamba,500
+13760,1,FPRC,4007,UPC (Ali Darass Fulani supporters),5999,2017,4,Central African Republic,FPRC - UPC (Ali Darass Fulani supporters),482
+13786,1,"Ahrar al-Sham, Jabhat Fateh al-Sham, Southern Front",6532,IS,234,2016,2,Syria,"Ahrar al-Sham, Jabhat Fateh al-Sham, Southern Front - IS",652
+13786,1,"Ahrar al-Sham, Jabhat Fateh al-Sham, Southern Front",6532,IS,234,2017,2,Syria,"Ahrar al-Sham, Jabhat Fateh al-Sham, Southern Front - IS",652
+13796,1,IS,234,NSA,6553,2016,2,Syria,IS - NSA,652
+13797,3,Bambara,6554,Fulani,607,2016,4,Mali,Bambara - Fulani,432
+13798,1,Ahrar al-Sham,5554,Liwa al-Aqsa,6037,2016,2,Syria,Ahrar al-Sham - Liwa al-Aqsa,652
+13801,1,Mare' Operations Room,6564,IS,234,2015,2,Syria,Mare' Operations Room - IS,652
+13801,1,Mare' Operations Room,6564,IS,234,2016,2,Syria,Mare' Operations Room - IS,652
+13802,1,"Fatah Halab, Jabhat Fateh al-Sham",6495,SDF,6288,2015,2,Syria,"Fatah Halab, Jabhat Fateh al-Sham - SDF",652
+13802,1,"Fatah Halab, Jabhat Fateh al-Sham",6495,SDF,6288,2016,2,Syria,"Fatah Halab, Jabhat Fateh al-Sham - SDF",652
+13808,1,"Ahrar al-Sham, Furqan Brigades, Jabhat Fateh al-Sham, Jaysh al-Islam, Yarmouk Army",6572,Jaysh al-Jihad (Saraya al- Jihad),6302,2015,2,Syria,"Ahrar al-Sham, Furqan Brigades, Jabhat Fateh al-Sham, Jaysh al-Islam, Yarmouk Army - Jaysh al-Jihad (Saraya al- Jihad)",652
+13810,1,Los Zetas - Jorge Ivan Hernandez Cantu faction,6573,Los Zetas - Juan Pedro Salvador Saldivar Farias faction,6574,2016,5,Mexico,Los Zetas - Jorge Ivan Hernandez Cantu faction - Los Zetas - Juan Pedro Salvador Saldivar Farias faction,70
+13832,1,Hawar Kilis Operations Room,6599,IS,234,2016,2,Syria,Hawar Kilis Operations Room - IS,652
+13832,1,Hawar Kilis Operations Room,6599,IS,234,2017,2,Syria,Hawar Kilis Operations Room - IS,652
+13833,1,Hawar Kilis Operations Room,6599,SDF,6288,2016,2,Syria,Hawar Kilis Operations Room - SDF,652
+13833,1,Hawar Kilis Operations Room,6599,SDF,6288,2017,2,Syria,Hawar Kilis Operations Room - SDF,652
+13837,1,"Jaysh al-Islam, Jaysh Asoud al-Sharqiya, Martyr Lieutenant Ahmed Abdou Brigades, Rahman Corps",6600,Tahrir al- Sham Army,6306,2016,2,Syria,"Jaysh al-Islam, Jaysh Asoud al-Sharqiya, Martyr Lieutenant Ahmed Abdou Brigades, Rahman Corps - Tahrir al- Sham Army",652
+13841,1,IS,234,Jaysh al-Asha’er,6605,2017,2,Syria,IS - Jaysh al-Asha’er,652
+13842,3,Awlad Omran clan,991,Awlad Serur (Misseriya),4204,2016,4,Sudan,Awlad Omran clan - Awlad Serur (Misseriya),625
+13863,3,Panyar Dinka,6632,Waat Dinka,1939,2016,4,South Sudan,Panyar Dinka - Waat Dinka,626
+13864,3,"Panyar Dinka, Rek Dinka",6633,Waat Dinka,1939,2016,4,South Sudan,"Panyar Dinka, Rek Dinka - Waat Dinka",626
+13879,3,Ikot-Offiong community,6659,Oku Iboku community,6660,2017,4,Nigeria,Ikot-Offiong community - Oku Iboku community,475
+13880,3,Igbo,621,Fulani,607,2016,4,Nigeria,Igbo - Fulani,475
+13888,3,Fulani,607,"Koulango , Lobi, Malinké",6664,2016,4,Ivory Coast,"Fulani - Koulango , Lobi, Malinké",437
+13912,1,"APCLS, FDLR, Nyatura",6585,"Mayi Mayi Mazembe, NDC-R",6683,2016,4,DR Congo (Zaire),"APCLS, FDLR, Nyatura - Mayi Mayi Mazembe, NDC-R",490
+13914,3,Maban,6686,Uduk,6685,2016,4,South Sudan,Maban - Uduk,626
+13920,3,Mahadi,6695,Rizeigat Abbala,676,2016,4,Sudan,Mahadi - Rizeigat Abbala,625
+13924,1,BDB,6698,Forces of the House of Representatives,5802,2017,4,Libya,BDB - Forces of the House of Representatives,620
+13928,1,SRF,1162,Subol Al-Salam Brigade,6701,2016,4,Libya,SRF - Subol Al-Salam Brigade,620
+13933,1,"Ahrar al-Sham, FSA, Jabhat Fateh al-Sham, Jaysh al-Islam",6702,IS,234,2016,2,Syria,"Ahrar al-Sham, FSA, Jabhat Fateh al-Sham, Jaysh al-Islam - IS",652
+13933,1,"Ahrar al-Sham, FSA, Jabhat Fateh al-Sham, Jaysh al-Islam",6702,IS,234,2017,2,Syria,"Ahrar al-Sham, FSA, Jabhat Fateh al-Sham, Jaysh al-Islam - IS",652
+13935,1,"Ahrar al-Sham, Jabhat Fateh al-Sham",6389,SDF,6288,2016,2,Syria,"Ahrar al-Sham, Jabhat Fateh al-Sham - SDF",652
+13937,1,BLA,287,UBA,3192,2015,3,Pakistan,BLA - UBA,770
+13940,1,Jalisco Cartel New Generation,1151,La Nueva Familia,6704,2017,5,Mexico,Jalisco Cartel New Generation - La Nueva Familia,70
+13948,1,"Ahrar al-Sham, Jabhat Fateh al-Sham, Jaysh al-Islam",6713,LAFA,5556,2014,2,Syria,"Ahrar al-Sham, Jabhat Fateh al-Sham, Jaysh al-Islam - LAFA",652
+13950,1,Eastern Ghouta Unified Military Command,6410,IS,234,2015,2,Syria,Eastern Ghouta Unified Military Command - IS,652
+13951,1,"Ahrar al-Sham, Jabhat Fateh al-Sham, Jaysh al-Islam",6713,Hezbollah,366,2014,2,Syria,"Ahrar al-Sham, Jabhat Fateh al-Sham, Jaysh al-Islam - Hezbollah",652
+13961,1,Lulua-Luba,6731,Chowe-Pende,6732,2017,4,DR Congo (Zaire),Lulua-Luba - Chowe-Pende,490
+13963,3,Hamar,1080,Kababish,1948,2017,4,Sudan,Hamar - Kababish,625
+13971,1,FDN,6743,PCC,3176,2017,5,Brazil,FDN - PCC,140
+13975,1,NDC-R,6491,Mayi Mayi Mazembe,6587,2017,4,DR Congo (Zaire),NDC-R - Mayi Mayi Mazembe,490
+13984,3,Wanhihem community,6765,Wanikade community,6766,2017,4,Nigeria,Wanhihem community - Wanikade community,475
+13985,3,Fulani,607,Kadara,6767,2017,4,Nigeria,Fulani - Kadara,475
+14000,1,anti-Balaka,4201,MPC (Al Khatim rebels),6354,2017,4,Central African Republic,anti-Balaka - MPC (Al Khatim rebels),482
+14067,1,SPLM/A-North,1123,SPLM/A-North - MA faction,6792,2017,4,"South Sudan, Sudan",SPLM/A-North - SPLM/A-North - MA faction,626
+14068,3,Aliap Dinka,1008,Atuot Dinka,1092,2017,4,South Sudan,Aliap Dinka - Atuot Dinka,626
+14073,1,Al-Shabaab,717,Aaro Aaro,4322,2017,4,Somalia,Al-Shabaab - Aaro Aaro,520
+14081,1,Comités locaux de vigilance,6634,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1051,2017,4,Cameroon,Comités locaux de vigilance - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,471
+14083,3,Fulani,607,Irigwe,6805,2017,4,Nigeria,Fulani - Irigwe,475
+14089,1,3R,6641,anti-Balaka,4201,2017,4,Central African Republic,3R - anti-Balaka,482
+14090,1,"anti-Balaka, FPRC-AK",7000,FPRC,4007,2017,4,Central African Republic,"anti-Balaka, FPRC-AK - FPRC",482
+14095,1,Ahrar al-Sham,5554,Tahrir al-Sham,6815,2017,2,Syria,Ahrar al-Sham - Tahrir al-Sham,652
+14096,1,Jaysh al-Islam,6377,"Rahman Corps, Tahrir al-Sham",6825,2017,2,Syria,"Jaysh al-Islam - Rahman Corps, Tahrir al-Sham",652
+14097,1,IS,234,Tahrir al-Sham,6815,2017,2,Syria,IS - Tahrir al-Sham,652
+14109,1,"GATIA, MSA",6837,IS,234,2017,4,Mali,"GATIA, MSA - IS",432
+14110,1,IS,234,MSA,6836,2017,4,Mali,IS - MSA,432
+14124,1,Nour al-Din al-Zenki,6434,Tahrir al-Sham,6815,2017,2,Syria,Nour al-Din al-Zenki - Tahrir al-Sham,652
+14127,1,Liwa al-Aqsa,6037,Tahrir al-Sham,6815,2017,2,Syria,Liwa al-Aqsa - Tahrir al-Sham,652
+14134,3,Bwatiye,3103,Fulani,607,2016,4,Nigeria,Bwatiye - Fulani,475
+14134,3,Bwatiye,3103,Fulani,607,2017,4,Nigeria,Bwatiye - Fulani,475
+14137,1,Hezbollah,366,Tahrir al-Sham,6815,2017,2,Lebanon,Hezbollah - Tahrir al-Sham,660
+14141,1,IS,234,"Saraya Ahl al-Sham, Tahrir al-Sham",6866,2017,2,Lebanon,"IS - Saraya Ahl al-Sham, Tahrir al-Sham",660
+14167,3,Pakam Dinka,6341,Rup Dinka,6343,2017,4,South Sudan,Pakam Dinka - Rup Dinka,626
+14209,1,CMC,6920,CNRD,6684,2017,4,DR Congo (Zaire),CMC - CNRD,490
+14224,3,PCC,3176,Sindicato RN,6936,2017,5,Brazil,PCC - Sindicato RN,140
+14229,3,Ayiel Dinka,6943,Waat Dinka,1939,2017,4,South Sudan,Ayiel Dinka - Waat Dinka,626
+14234,1,"Operations Room Combating Daesh, Shuhada al-Wadi militia",6842,"Anas al-Dabbashi Brigade, Brigade 48",6955,2017,4,Libya,"Operations Room Combating Daesh, Shuhada al-Wadi militia - Anas al-Dabbashi Brigade, Brigade 48",620
+14237,3,"Bambuti, Batwa",6960,Batabwa,6756,2017,4,DR Congo (Zaire),"Bambuti, Batwa - Batabwa",490
+14241,1,"Anti-Balaka - Mokom, FPRC, MPC (Al Khatim rebels), RPRC",6968,UPC (Ali Darass Fulani supporters),5999,2016,4,Central African Republic,"Anti-Balaka - Mokom, FPRC, MPC (Al Khatim rebels), RPRC - UPC (Ali Darass Fulani supporters)",482
+14241,1,"Anti-Balaka - Mokom, FPRC, MPC (Al Khatim rebels), RPRC",6968,UPC (Ali Darass Fulani supporters),5999,2017,4,Central African Republic,"Anti-Balaka - Mokom, FPRC, MPC (Al Khatim rebels), RPRC - UPC (Ali Darass Fulani supporters)",482
+14258,1,anti-Balaka,4201,Peuhl militia (Zemio),6982,2017,4,Central African Republic,anti-Balaka - Peuhl militia (Zemio),482
+14264,3,Arab Brabich,4171,Idnan (Touareg),1568,2013,4,Algeria,Arab Brabich - Idnan (Touareg),615
+14285,1,Comando Vermelho,772,GDE,7014,2017,5,Brazil,Comando Vermelho - GDE,140
+14305,3,Jalwau,7034,Thiyic Dinka,1138,2017,4,South Sudan,Jalwau - Thiyic Dinka,626
+14309,1,IS,234,"Southern Front, Tahrir al-Sham",7036,2017,2,Syria,"IS - Southern Front, Tahrir al-Sham",652
+14313,1,"Ahrar al-Sham, FSA, Jaysh al-Islam, Tahrir al-Sham",7042,IS,234,2017,2,Syria,"Ahrar al-Sham, FSA, Jaysh al-Islam, Tahrir al-Sham - IS",652
+14320,1,"February 17 Martyrs Brigade, Rafallah al-Sahati Brigade",7049,Forces of the House of Representatives,5802,2014,4,Libya,"February 17 Martyrs Brigade, Rafallah al-Sahati Brigade - Forces of the House of Representatives",620
+14321,1,ASL,7046,Forces of the House of Representatives,5802,2014,4,Libya,ASL - Forces of the House of Representatives,620
+14324,1,"Ahrar al-Sham, Southern Front, Tahrir al-Sham",7056,IS,234,2017,2,Syria,"Ahrar al-Sham, Southern Front, Tahrir al-Sham - IS",652
