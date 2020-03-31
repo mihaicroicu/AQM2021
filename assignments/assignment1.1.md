@@ -1,4 +1,4 @@
-## ASSIGNMENT 1.1 ## 
+## ASSIGNMENT 2 ## 
 
 In order to pass, you do not need to successfully complete the HARD task, but at least have tried to answer it. The purpose of the hard task is to show you a few of the caveats and problems of working with data!
 
