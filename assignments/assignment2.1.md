@@ -1,6 +1,7 @@
 ## ASSIGNMENT 2.1 ## 
 
 Assignment 2 has two different parts. You need to complete **BOTH** in order to pass.
+This is only **PART 1**.
 
 ## Deadline: 16 April at 17:00 via Studium
 
