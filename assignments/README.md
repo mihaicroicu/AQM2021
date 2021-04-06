@@ -1,2 +1,1 @@
-The assignment should be completed before 8 April at 12:00.
-E-mail these assignments to Mihai, Håvard and David..
+Submit the assignment before 16 April 2021 at 17:00 via Studium.
