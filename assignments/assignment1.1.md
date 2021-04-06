@@ -1,6 +1,8 @@
-## ASSIGNMENT 1.1 ## 
+## ASSIGNMENT 2.1 ## 
 
-## Deadline: 9 April at 17:00 via Studium
+Assignment 2 has two different parts. You need to complete **BOTH** in order to pass.
+
+## Deadline: 16 April at 17:00 via Studium
 
 In order to pass, you do not need to successfully complete the HARD task, but at least have tried to answer it. The purpose of the hard task is to show you a few of the caveats and problems of working with data!
 
